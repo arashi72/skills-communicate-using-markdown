@@ -22,4 +22,4 @@ var myVar = "Hello, world!";
 Task list:
 
 - [X] Finish getting started with github
-- [ ] Finish communicate using markdown
+- [X] Finish communicate using markdown
